@@ -18,4 +18,6 @@ This a summary of what my scripts are doing with links to the various scripts.
 
 [8-firstdelete](8-firstdelete0) : Delete the file betty.
 
+[9-firstdirdeletion](9-firstdirdeletion) : Delete the directory my_first_directory that is in the /tmp directory.
+
 
