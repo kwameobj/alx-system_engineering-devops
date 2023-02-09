@@ -20,4 +20,4 @@ This a summary of what my scripts are doing with links to the various scripts.
 
 [9-firstdirdeletion](9-firstdirdeletion) : Delete the directory my_first_directory that is in the /tmp directory.
 
-
+[10-back](10-back) : A script that changes the working directory to the previous one.
