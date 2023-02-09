@@ -12,4 +12,6 @@ This a summary of what my scripts are doing with links to the various scripts.
 
 [5-listfilesdigitonly](5-listfilesdigitonly) : Display current directory contents; in long format with user and group IDs displayed numerically, and hidden files (starting with .)
 
+[6-firstdirectory](6-firstdirectory) : Create a script that creates a directory named my_first_directory in the /tmp/ directory.
+
 
