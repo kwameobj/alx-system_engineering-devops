@@ -10,4 +10,6 @@ This a summary of what my scripts are doing with links to the various scripts.
 
 [4-listmorefiles](4-listmorefiles) : Display current directory contents, including hidden files (starting with .). Use the long format.
 
+[5-listfilesdigitonly](5-listfilesdigitonly) : Display current directory contents; in long format with user and group IDs displayed numerically, and hidden files (starting with .)
+
 
