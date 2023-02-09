@@ -16,4 +16,6 @@ This a summary of what my scripts are doing with links to the various scripts.
 
 [7-movethatfile](7-movethatfile) : Move the file betty from /tmp/ to /tmp/my_first_directory.
 
+[8-firstdelete](8-firstdelete0) : Delete the file betty.
+
 
