@@ -1,2 +1,2 @@
 #!/bin/bash
-play starwars IV episode
+telnet towel.blinkenlights.nl
