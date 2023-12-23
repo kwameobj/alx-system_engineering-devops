@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# Displays "To infinity and beyond" indefinitely, has sleep2 and can be killed
+
+while true
+do
+    echo "To infinity and beyond"
+    sleep 2
+done
+
